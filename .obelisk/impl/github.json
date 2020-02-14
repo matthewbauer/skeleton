@@ -1,7 +1,8 @@
 {
   "owner": "obsidiansystems",
   "repo": "obelisk",
-  "branch": "sign-in-deploy-script",
-  "rev": "6b527036d32d398663474eae7d0a0ea3abba6f1a",
-  "sha256": "0y0na06bz80n4xrrw6s1gxdi0nm4234lw2himdx9xp9fmjrr2yik"
+  "branch": "use-android-deploy-script",
+  "private": false,
+  "rev": "229684108f21d3b8711bd5b57e4cd65fa942b18a",
+  "sha256": "0xd9pqpvzjpbf43973waly73fr2yw1yw0jd752ypvvqpikb9bhar"
 }
